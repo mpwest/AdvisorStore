@@ -1,1 +1,3 @@
-To build and run: 
+Publish from configured publish profile.
+
+Run /Release/net8.0/publish/AdvisorStore.exe
