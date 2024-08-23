@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvisorStore", "AdvisorStor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94C8CCAF-AF57-4389-8427-C34A9FFA154C}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		.gitignore = .gitignore
+		.README = .README
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvisorTest", "AdvisorTest\AdvisorTest.csproj", "{9E882904-F4E0-4E09-90C6-C1B832FB681D}"
